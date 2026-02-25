@@ -21,8 +21,8 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="Kimoboy Studio" className="logo-img" />
-                <span className="studio-name">Kimoboy Studio</span>
+                <img src={logoImg} alt="CAMILES" className="logo-img" />
+                <span className="studio-name">CAMILES</span>
               </div>
             </div>
 
@@ -52,8 +52,8 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Kimoboy Studio – Welcome Aboard</h2>
-            <p className="about-text">Kimoboy Studio is an innovative mobile app studio dedicated to developing reliable, creative, and user-friendly applications. We aim to merge imagination with functionality, delivering solutions across casual gaming, productivity, lifestyle, and education. Every app we produce is designed with the user experience at its core — featuring intuitive navigation, refined details, and practical value — to make everyday life easier, smarter, and more enjoyable for people worldwide.</p>
+            <h2 className="highlight-title">CAMILES – Welcome Aboard</h2>
+            <p className="about-text">CAMILES is an innovative mobile app studio dedicated to developing reliable, creative, and user-friendly applications. We aim to merge imagination with functionality, delivering solutions across casual gaming, productivity, lifestyle, and education. Every app we produce is designed with the user experience at its core — featuring intuitive navigation, refined details, and practical value — to make everyday life easier, smarter, and more enjoyable for people worldwide.</p>
           </div>
           <div className="about-img-container">
             <img src={imgMkj} alt="About MKJ Studio" className="about-img" />
@@ -86,9 +86,8 @@ function HomePage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
-            <a href="mailto: kimoboyboy@gmail.com"> kimoboyboy@gmail.com</a><br />
+            <a href="mailto: MarksJaquansdxlmf1@gmail.com"> MarksJaquansdxlmf1@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}>
-              🏠   Skander Ben Salah city essada skhira sfax - 3050 Tunisia (TN)
             </span>
           </p>
         </div>
@@ -108,7 +107,7 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} Kimoboy Studio. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} CAMILES. All rights reserved.</p>
           </div>
         </footer>
       </div>
